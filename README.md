@@ -13,9 +13,9 @@
 * [pytorch-transformers](https://github.com/huggingface/pytorch-transformers) PyTorch 1.0.0+ or any compatible version.
 
 #### Pre-trained Models (PyTorch)
-The following pre-trained models are available for download:
+The following pre-trained models are available for download from Google Drive:
 * [`LIMIT-BERT`](https://drive.google.com/open?id=1fm0cK2A91iLG3lCpwowCCQSALnWS2X4i): 
-PyTorch版本,和BERT-wwm设置一致，Bert的PyTorch版直接加载
+PyTorch version, same setting with BERT-Large-WWM，loading model with [pytorch-transformers](https://github.com/huggingface/pytorch-transformers).
 
 ## Training
 
