@@ -15,6 +15,7 @@
 #### Pre-trained Models (PyTorch)
 The following pre-trained models are available for download:
 * [`LIMIT-BERT`](https://drive.google.com/open?id=1fm0cK2A91iLG3lCpwowCCQSALnWS2X4i): 
+PyTorch版本,和BERT-wwm设置一致，Bert的PyTorch版直接加载
 
 ## Training
 

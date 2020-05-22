@@ -2,198 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191ce818-8be0-4fff-80d6-349877d20b16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bert_data/bert_train.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/QNLI/dev.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/QNLI/test.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/QNLI/train.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/contrib/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/contrib/run_openai_gpt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/contrib/run_swag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/contrib/run_transfo_xl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/distiller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/grouped_batch_sampler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/lm_seqs_dataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/run_squad_w_distillation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/scripts/binarized_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/scripts/extract.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/scripts/extract_distilbert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/scripts/token_counts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/train.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/training_configs/distilbert-base-uncased.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/training_configs/distilgpt2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/distillation/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_bertology.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_classifier.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_classifier_zsl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_generation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_glue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_lm_finetuning.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_multiple_choice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_squad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/run_tf_glue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/test_examples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/tests_samples/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/tests_samples/MRPC/dev.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/tests_samples/MRPC/train.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/tests_samples/SQUAD/dev-v2.0-small.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/utils_multiple_choice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/utils_squad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src_srl_syn/examples/utils_squad_evaluate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run_limitbert.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src_srl_syn/Zmodel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/srl_helper.pyx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/srlspan_decoder.pyx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/srlspan_helper.pyx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/synconst_scorer.pyx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/uniform_decoder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11160">
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/run_bert.sh" />
-        <option value="$PROJECT_DIR$/test_bert.sh" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src_srl_syn/pytorch_transformers/modeling_bert.py" />
-        <option value="$PROJECT_DIR$/src_srl_syn/pytorch_transformers/modeling_xlnet.py" />
-        <option value="$PROJECT_DIR$/src_srl_syn/pytorch_transformers/tokenization_bert.py" />
-        <option value="$PROJECT_DIR$/src_srl_syn/pytorch_transformers/tokenization_xlnet.py" />
-        <option value="$PROJECT_DIR$/run_limitbert.sh" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectId" id="1cFLzYj1zB8QCShVfVH2y8RHQ7P" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LIMIT-BERT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LIMIT-BERT" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LIMIT-BERT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LIMIT-BERT" type="462c0819:PsiDirectoryNode" />
-              <item name="src_srl_syn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LIMIT-BERT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LIMIT-BERT" type="462c0819:PsiDirectoryNode" />
-              <item name="src_srl_syn" type="462c0819:PsiDirectoryNode" />
-              <item name="Decoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -202,15 +26,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -224,155 +48,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575686974901</updated>
+      <workItem from="1590119666741" duration="293000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15307583" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/run_bert.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_bert.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/pytorch_transformers/modeling_bert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="61" column="145" lean-forward="true" selection-start-line="61" selection-start-column="145" selection-end-line="61" selection-end-column="145" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/pytorch_transformers/modeling_xlnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/pytorch_transformers/tokenization_bert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="49" column="42" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/pytorch_transformers/tokenization_xlnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_limitbert.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/Zmodel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/srl_helper.pyx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/srlspan_decoder.pyx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/srlspan_helper.pyx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/synconst_scorer.pyx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src_srl_syn/Decoder/uniform_decoder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11160">
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
