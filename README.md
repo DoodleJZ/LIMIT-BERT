@@ -13,8 +13,8 @@
 * [pytorch-transformers](https://github.com/huggingface/pytorch-transformers) PyTorch 1.0.0+ or any compatible version.
 
 #### Pre-trained Models (PyTorch)
-
-Release later.
+The following pre-trained models are available for download:
+* [`LIMIT-BERT`](https://drive.google.com/open?id=1fm0cK2A91iLG3lCpwowCCQSALnWS2X4i): 
 
 ## Training
 
