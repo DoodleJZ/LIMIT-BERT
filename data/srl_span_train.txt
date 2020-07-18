@@ -1,0 +1,172 @@
+conll05	0	0	In	IN	IN	45	prep	(S(PP-LOC*	-	-	-	-	*	*	*	*	(AM-LOC*	
+conll05	0	1	an	DT	DT	5	det	(NP(NP*	-	-	-	-	*	*	*	*	*	
+conll05	0	2	Oct.	NNP	NNP	5	nn	*	-	-	-	-	*	*	*	*	*	
+conll05	0	3	19	CD	CD	5	num	*	-	-	-	-	*	*	*	*	*	
+conll05	0	4	review	NN	NN	1	pobj	*)	-	-	-	-	*	*	*	*	*	
+conll05	0	5	of	IN	IN	5	prep	(PP*	-	-	-	-	*	*	*	*	*	
+conll05	0	6	``	``	``	9	punct	(NP*	-	-	-	-	*	*	*	*	*	
+conll05	0	7	The	DT	DT	9	det	(NP-TTL*	-	-	-	-	*	*	*	*	*	
+conll05	0	8	Misanthrope	NN	NN	6	pobj	*)	-	-	-	-	*	*	*	*	*	
+conll05	0	9	''	''	''	9	punct	*	-	-	-	-	*	*	*	*	*	
+conll05	0	10	at	IN	IN	9	prep	(PP-LOC*	-	-	-	-	*	*	*	*	*	
+conll05	0	11	Chicago	NNP	NNP	15	poss	(NP(NP*	-	-	-	-	(LOC*)	*	*	*	*	
+conll05	0	12	's	POS	POS	12	possessive	*)	-	-	-	-	*	*	*	*	*	
+conll05	0	13	Goodman	NNP	NNP	15	nn	*	-	-	-	-	(MISC*)	*	*	*	*	
+conll05	0	14	Theatre	NNP	NNP	11	pobj	*))))	-	-	-	-	*	*	*	*	*	
+conll05	0	15	(	-LRB-	-LRB-	20	punct	(PRN*	-	-	-	-	*	*	*	*	*	
+conll05	0	16	``	``	``	20	punct	*	-	-	-	-	*	*	*	*	*	
+conll05	0	17	Revitalized	VBN	VBN	19	amod	(S-HLN(NP-SBJ*	01	revitalize	-	-	*	(V*)	(A0*	*	*	
+conll05	0	18	Classics	NNS	NNS	20	nsubj	*)	-	-	-	-	*	(A1*)	*)	*	*	
+conll05	0	19	Take	VBP	VB	5	dep	(VP*	01	take	-	-	*	*	(V*)	*	*	
+conll05	0	20	the	DT	DT	22	det	(NP*	-	-	-	-	*	*	(A1*	*	*	
+conll05	0	21	Stage	NN	NN	20	dobj	*)	-	-	-	-	*	*	*)	*	*	
+conll05	0	22	in	IN	IN	20	prep	(PP-LOC*	-	-	-	-	*	*	(AM-LOC*	*	*	
+conll05	0	23	Windy	NNP	NNP	25	nn	(NP*	-	-	-	-	(MISC*)	*	*	*	*	
+conll05	0	24	City	NNP	NNP	23	pobj	*))))	-	-	-	-	*	*	*)	*	*	
+conll05	0	25	,	,	,	20	punct	*	-	-	-	-	*	*	*	*	*	
+conll05	0	26	''	''	''	20	punct	*	-	-	-	-	*	*	*	*	*	
+conll05	0	27	Leisure	NN	NN	20	dep	(NP-TMP*	-	-	-	-	(ORG*	*	*	*	*	
+conll05	0	28	&	CC	CC	28	cc	*	-	-	-	-	*	*	*	*	*	
+conll05	0	29	Arts	NNS	NNS	28	conj	*)	-	-	-	-	*)	*	*	*	*	
+conll05	0	30	)	-RRB-	-RRB-	20	punct	*)))	-	-	-	-	*	*	*	*	*)	
+conll05	0	31	,	,	,	45	punct	*	-	-	-	-	*	*	*	*	*	
+conll05	0	32	the	DT	DT	34	det	(NP-SBJ-2(NP(NP*	-	-	-	-	*	*	*	(A1*	(A1*	
+conll05	0	33	role	NN	NN	45	nsubjpass	*)	-	-	-	-	*	*	*	*	*	
+conll05	0	34	of	IN	IN	34	prep	(PP*	-	-	-	-	*	*	*	*	*	
+conll05	0	35	Celimene	NNP	NNP	35	pobj	(NP*)))	-	-	-	-	(LOC*)	*	*	*)	*	
+conll05	0	36	,	,	,	34	punct	*	-	-	-	-	*	*	*	*	*	
+conll05	0	37	played	VBN	VBN	34	vmod	(VP*	02	play	-	-	*	*	*	(V*)	*	
+conll05	0	38	by	IN	IN	38	prep	(PP*	-	-	-	-	*	*	*	(A0*	*	
+conll05	0	39	Kim	NNP	NNP	41	nn	(NP-LGS*	-	-	-	-	*	*	*	*	*	
+conll05	0	40	Cattrall	NNP	NNP	39	pobj	*)))	-	-	-	-	*	*	*	*)	*	
+conll05	0	41	,	,	,	34	punct	*)	-	-	-	-	*	*	*	*	*)	
+conll05	0	42	was	VBD	VBD	45	auxpass	(VP*	-	-	-	-	*	*	*	*	*	
+conll05	0	43	mistakenly	RB	RB	45	advmod	(VP(ADVP-MNR*)	-	-	-	-	*	*	*	*	(AM-MNR*)	
+conll05	0	44	attributed	VBN	VBN	0	root	*	01	attribute	-	-	*	*	*	*	(V*)	
+conll05	0	45	to	TO	TO	45	prep	(PP-CLR*	-	-	-	-	*	*	*	*	(A2*	
+conll05	0	46	Christina	NNP	NNP	48	nn	(NP*	-	-	-	-	(LOC*)	*	*	*	*	
+conll05	0	47	Haag	NNP	NNP	46	pobj	*))))	-	-	-	-	(LOC*)	*	*	*	*)	
+conll05	0	48	.	.	.	45	punct	*)	-	-	-	-	*	*	*	*	*	
+					
+conll05	1	0	Ms.	NNP	NNP	2	nn	(S(NP-SBJ*	-	-	-	-	*	(A0*	
+conll05	1	1	Haag	NNP	NNP	3	nsubj	*)	-	-	-	-	(LOC*)	*)	
+conll05	1	2	plays	VBZ	VBZ	0	root	(VP*	02	play	-	-	*	(V*)	
+conll05	1	3	Elianti	NNP	NNP	3	dobj	(NP*))	-	-	-	-	*	(A1*)	
+conll05	1	4	.	.	.	3	punct	*)	-	-	-	-	*	*	
+					
+conll05	2	0	Rolls-Royce	NNP	NNP	4	nn	(S(NP-SBJ*	-	-	-	-	(ORG*	(A0*	*	*	
+conll05	2	1	Motor	NNP	NNP	4	nn	*	-	-	-	-	*	*	*	*	
+conll05	2	2	Cars	NNPS	NNPS	4	nn	*	-	-	-	-	*	*	*	*	
+conll05	2	3	Inc.	NNP	NNP	5	nsubj	*)	-	-	-	-	*)	*)	*	*	
+conll05	2	4	said	VBD	VBD	0	root	(VP*	01	say	-	-	*	(V*)	*	*	
+conll05	2	5	it	PRP	PRP	7	nsubj	(SBAR(S(NP-SBJ*)	-	-	-	-	*	(A1*	(A0*)	*	
+conll05	2	6	expects	VBZ	VBZ	5	ccomp	(VP*	01	expect	-	-	*	*	(V*)	*	
+conll05	2	7	its	PRP$	PRP$	10	poss	(S(NP-SBJ*	-	-	-	-	*	*	(A1*	(A1*	
+conll05	2	8	U.S.	NNP	NNP	10	nn	*	-	-	-	-	(LOC*)	*	*	*	
+conll05	2	9	sales	NNS	NNS	7	dobj	*)	-	-	-	-	*	*	*	*)	
+conll05	2	10	to	TO	TO	12	aux	(VP*	-	-	-	-	*	*	*	*	
+conll05	2	11	remain	VB	VB	7	xcomp	(VP*	01	remain	-	-	*	*	*	(V*)	
+conll05	2	12	steady	JJ	JJ	12	acomp	(ADJP-PRD*)	-	-	-	-	*	*	*	(A3*)	
+conll05	2	13	at	IN	IN	12	prep	(PP-LOC-CLR*	-	-	-	-	*	*	*	(AM-MNR*	
+conll05	2	14	about	IN	IN	16	quantmod	(NP(QP*	-	-	-	-	*	*	*	*	
+conll05	2	15	1,200	CD	CD	17	num	*)	-	-	-	-	*	*	*	*	
+conll05	2	16	cars	NNS	NNS	14	pobj	*))	-	-	-	-	*	*	*	*)	
+conll05	2	17	in	IN	IN	12	prep	(PP-TMP*	-	-	-	-	*	*	*	(AM-TMP*	
+conll05	2	18	1990	CD	CD	18	pobj	(NP*)))))))))	-	-	-	-	*	*)	*)	*)	
+conll05	2	19	.	.	.	5	punct	*)	-	-	-	-	*	*	*	*	
+					
+conll05	3	0	The	DT	DT	4	det	(S(NP-SBJ*	-	-	-	-	*	(A0*	
+conll05	3	1	luxury	NN	NN	4	nn	*	-	-	-	-	*	*	
+conll05	3	2	auto	NN	NN	4	nn	*	-	-	-	-	*	*	
+conll05	3	3	maker	NN	NN	7	nsubj	*)	-	-	-	-	*	*)	
+conll05	3	4	last	JJ	JJ	6	amod	(NP-TMP*	-	-	-	-	*	(AM-TMP*	
+conll05	3	5	year	NN	NN	7	tmod	*)	-	-	-	-	*	*)	
+conll05	3	6	sold	VBD	VBD	0	root	(VP*	01	sell	-	-	*	(V*)	
+conll05	3	7	1,214	CD	CD	9	num	(NP*	-	-	-	-	*	(A1*	
+conll05	3	8	cars	NNS	NNS	7	dobj	*)	-	-	-	-	*	*)	
+conll05	3	9	in	IN	IN	7	prep	(PP-LOC*	-	-	-	-	*	(AM-LOC*	
+conll05	3	10	the	DT	DT	12	det	(NP*	-	-	-	-	*	*	
+conll05	3	11	U.S.	NNP	NNP	10	pobj	*))))	-	-	-	-	(LOC*)	*)	
+					
+conll05	4	0	Howard	NNP	NNP	2	nn	(S(NP-SBJ(NP*	-	-	-	-	(PER*	(A0*	*	
+conll05	4	1	Mosher	NNP	NNP	10	nsubj	*)	-	-	-	-	*)	*	*	
+conll05	4	2	,	,	,	2	punct	*	-	-	-	-	*	*	*	
+conll05	4	3	president	NN	NN	2	appos	(NP(NP*)	-	-	-	-	*	*	*	
+conll05	4	4	and	CC	CC	4	cc	*	-	-	-	-	*	*	*	
+conll05	4	5	chief	JJ	JJ	8	amod	(NP*	-	-	-	-	*	*	*	
+conll05	4	6	executive	NN	JJ	8	nn	*	-	-	-	-	*	*	*	
+conll05	4	7	officer	NN	NN	4	conj	*))	-	-	-	-	*	*	*	
+conll05	4	8	,	,	,	2	punct	*)	-	-	-	-	*	*)	*	
+conll05	4	9	said	VBD	VBD	0	root	(VP*	01	say	-	-	*	(V*)	*	
+conll05	4	10	he	PRP	PRP	12	nsubj	(SBAR(S(NP-SBJ*)	-	-	-	-	*	(A1*	(A0*)	
+conll05	4	11	anticipates	VBZ	VBZ	10	ccomp	(VP*	01	anticipate	-	-	*	*	(V*)	
+conll05	4	12	growth	NN	NN	12	dobj	(NP(NP*)	-	-	-	-	*	*	(A1*	
+conll05	4	13	for	IN	IN	13	prep	(PP*	-	-	-	-	*	*	*	
+conll05	4	14	the	DT	DT	18	det	(NP*	-	-	-	-	*	*	*	
+conll05	4	15	luxury	NN	NN	18	nn	*	-	-	-	-	*	*	*	
+conll05	4	16	auto	NN	NN	18	nn	*	-	-	-	-	*	*	*	
+conll05	4	17	maker	NN	NN	14	pobj	*))	-	-	-	-	*	*	*	
+conll05	4	18	in	IN	IN	13	prep	(PP-LOC(PP*	-	-	-	-	*	*	*	
+conll05	4	19	Britain	NNP	NNP	19	pobj	(NP*	-	-	-	-	(LOC*)	*	*	
+conll05	4	20	and	CC	CC	20	cc	*	-	-	-	-	*	*	*	
+conll05	4	21	Europe	NNP	NNP	20	conj	*))	-	-	-	-	(LOC*)	*	*	
+conll05	4	22	,	,	,	19	punct	*	-	-	-	-	*	*	*	
+conll05	4	23	and	CC	CC	19	cc	*	-	-	-	-	*	*	*	
+conll05	4	24	in	IN	IN	19	conj	(PP*	-	-	-	-	*	*	*	
+conll05	4	25	Far	JJ	NNP	27	amod	(NP(ADJP*	-	-	-	-	(MISC*	*	*	
+conll05	4	26	Eastern	JJ	NNP	28	amod	*)	-	-	-	-	*)	*	*	
+conll05	4	27	markets	NNS	NNS	25	pobj	*))))))))	-	-	-	-	*	*)	*)	
+conll05	4	28	.	.	.	10	punct	*)	-	-	-	-	*	*	*	
+					
+conll05	5	0	BELL	NNP	NNP	3	nn	(S(NP-SBJ*	-	-	-	-	(ORG*	(A0*	
+conll05	5	1	INDUSTRIES	NNP	NNP	3	nn	*	-	-	-	-	*	*	
+conll05	5	2	Inc.	NNP	NNP	4	nsubj	*)	-	-	-	-	*)	*)	
+conll05	5	3	increased	VBD	VBD	0	root	(VP*	01	increase	-	-	*	(V*)	
+conll05	5	4	its	PRP$	PRP$	6	poss	(NP*	-	-	-	-	*	(A1*	
+conll05	5	5	quarterly	NN	JJ	4	dobj	*)	-	-	-	-	*	*)	
+conll05	5	6	to	TO	TO	4	prep	(PP-DIR*	-	-	-	-	*	(A4*	
+conll05	5	7	10	CD	CD	9	num	(NP*	-	-	-	-	*	*	
+conll05	5	8	cents	NNS	NNS	7	pobj	*))	-	-	-	-	*	*)	
+conll05	5	9	from	IN	IN	4	prep	(PP-DIR*	-	-	-	-	*	(A3*	
+conll05	5	10	seven	CD	CD	12	num	(NP(NP*	-	-	-	-	*	*	
+conll05	5	11	cents	NNS	NNS	10	pobj	*)	-	-	-	-	*	*	
+conll05	5	12	a	DT	DT	14	det	(NP-ADV*	-	-	-	-	*	*	
+conll05	5	13	share	NN	NN	12	npadvmod	*))))	-	-	-	-	*	*)	
+conll05	5	14	.	.	.	4	punct	*)	-	-	-	-	*	*	
+					
+conll05	6	0	The	DT	DT	3	det	(S(NP-SBJ*	-	-	-	-	*	
+conll05	6	1	new	JJ	JJ	3	amod	*	-	-	-	-	*	
+conll05	6	2	rate	NN	NN	5	nsubj	*)	-	-	-	-	*	
+conll05	6	3	will	MD	MD	5	aux	(VP*	-	-	-	-	*	
+conll05	6	4	be	VB	VB	0	root	(VP*	-	-	-	-	*	
+conll05	6	5	payable	JJ	JJ	5	acomp	(ADJP-PRD*	-	-	-	-	*	
+conll05	6	6	Feb.	NNP	NNP	6	tmod	(NP-TMP*	-	-	-	-	*	
+conll05	6	7	15	CD	CD	7	num	*))))	-	-	-	-	*	
+conll05	6	8	.	.	.	5	punct	*)	-	-	-	-	*	
+					
+conll05	7	0	A	DT	DT	3	det	(S(NP-SBJ-1*	-	-	-	-	*	(A1*	
+conll05	7	1	record	NN	NN	3	nn	*	-	-	-	-	*	*	
+conll05	7	2	date	NN	NN	7	nsubjpass	*)	-	-	-	-	*	*)	
+conll05	7	3	has	VBZ	VBZ	7	aux	(VP*	-	-	-	-	*	*	
+conll05	7	4	n't	RB	RB	7	neg	*	-	-	-	-	*	(AM-NEG*)	
+conll05	7	5	been	VBN	VBN	7	auxpass	(VP*	-	-	-	-	*	*	
+conll05	7	6	set	VBN	VBN	0	root	(VP*)))	02	set	-	-	*	(V*)	
+conll05	7	7	.	.	.	7	punct	*)	-	-	-	-	*	*	
+					
+conll05	8	0	Bell	NNP	NNP	8	nsubj	(S(NP-SBJ(NP*)	-	-	-	-	(ORG*)	(A1*)	(A0*	(A0*	
+conll05	8	1	,	,	,	1	punct	*	-	-	-	-	*	*	*	*	
+conll05	8	2	based	VBN	VBN	1	vmod	(VP*	01	base	-	-	*	(V*)	*	*	
+conll05	8	3	in	IN	IN	3	prep	(PP-LOC-CLR*	-	-	-	-	*	(AM-LOC*	*	*	
+conll05	8	4	Los	NNP	NNP	6	nn	(NP*	-	-	-	-	(LOC*	*	*	*	
+conll05	8	5	Angeles	NNP	NNP	4	pobj	*)))	-	-	-	-	*)	*)	*	*	
+conll05	8	6	,	,	,	1	punct	*)	-	-	-	-	*	*	*)	*)	
+conll05	8	7	makes	VBZ	VBZ	0	root	(VP*	01	make	-	-	*	*	(V*)	*	
+conll05	8	8	and	CC	CC	8	cc	*	-	-	-	-	*	*	*	*	
+conll05	8	9	distributes	VBZ	VBZ	8	conj	*	01	distribute	-	-	*	*	*	(V*)	
+conll05	8	10	electronic	JJ	JJ	16	amod	(NP(UCP*	-	-	-	-	*	*	(A1*	(A1*	
+conll05	8	11	,	,	,	11	punct	*	-	-	-	-	*	*	*	*	
+conll05	8	12	computer	NN	NN	11	conj	*	-	-	-	-	*	*	*	*	
+conll05	8	13	and	CC	CC	11	cc	*	-	-	-	-	*	*	*	*	
+conll05	8	14	building	NN	NN	11	conj	*)	-	-	-	-	*	*	*	*	
+conll05	8	15	products	NNS	NNS	8	dobj	*))	-	-	-	-	*	*	*)	*)	
+conll05	8	16	.	.	.	8	punct	*)	-	-	-	-	*	*	*	*	

@@ -1,0 +1,172 @@
+0	In	in	ADP	IN	_	5	case	_	_	_	_	_	_	_	_	AM-LOC
+1	an	a	DET	DT	_	5	det	_	_	_	_	_	_	_	_	_
+2	Oct.	Oct.	PROPN	NNP	_	5	compound	_	_	_	_	_	_	_	_	_
+3	19	19	NUM	CD	_	5	nummod	_	_	AM-TMP	_	_	_	_	_	_
+4	review	review	NOUN	NN	_	45	nmod	Y	review.01	_	_	_	_	_	_	_
+5	of	of	ADP	IN	_	9	case	_	_	A1	_	_	_	_	_	_
+6	``	``	PUNCT	``	_	9	punct	_	_	_	_	_	_	_	_	_
+7	The	the	DET	DT	_	9	det	_	_	_	_	_	_	_	_	_
+8	Misanthrope	misanthrope	NOUN	NN	_	5	nmod	_	_	_	_	_	_	_	_	_
+9	''	''	PUNCT	''	_	9	punct	_	_	_	_	_	_	_	_	_
+10	at	at	ADP	IN	_	15	case	_	_	_	_	_	_	_	_	_
+11	Chicago	Chicago	PROPN	NNP	_	15	nmod:poss	_	_	_	_	_	_	_	_	_
+12	's	's	PART	POS	_	12	case	_	_	_	_	_	_	_	_	_
+13	Goodman	Goodman	PROPN	NNP	_	15	compound	_	_	_	_	_	_	_	_	_
+14	Theatre	Theatre	PROPN	NNP	_	9	nmod	_	_	_	_	_	_	_	_	_
+15	(	(	PUNCT	-LRB-	_	20	punct	_	_	_	_	_	_	_	_	_
+16	``	``	PUNCT	``	_	20	punct	_	_	_	_	_	_	_	_	_
+17	Revitalized	revitalize	VERB	VBN	_	19	amod	Y	revitalize.01	_	_	_	_	_	_	_
+18	Classics	classic	NOUN	NNS	_	20	nsubj	_	_	_	A1	A0	A1	_	_	_
+19	Take	take	VERB	VBP	_	5	dep	Y	take.01	_	_	_	_	_	_	_
+20	the	the	DET	DT	_	22	det	_	_	_	_	_	_	_	_	_
+21	Stage	stage	NOUN	NN	_	20	dobj	Y	stage.02	_	_	A1	_	_	_	_
+22	in	in	ADP	IN	_	25	case	_	_	_	_	AM-LOC	_	_	_	_
+23	Windy	Windy	PROPN	NNP	_	25	compound	_	_	_	_	_	_	_	_	_
+24	City	City	PROPN	NNP	_	20	nmod	_	_	_	_	_	_	_	_	_
+25	,	,	PUNCT	,	_	20	punct	_	_	_	_	_	_	_	_	_
+26	''	''	PUNCT	''	_	20	punct	_	_	_	_	_	_	_	_	_
+27	Leisure	leisure	NOUN	NN	_	20	dep	_	_	_	_	_	_	_	_	_
+28	&	&	CONJ	CC	_	28	cc	_	_	_	_	_	_	_	_	_
+29	Arts	art	NOUN	NNS	_	28	conj	_	_	_	_	_	_	_	_	_
+30	)	)	PUNCT	-RRB-	_	20	punct	_	_	_	_	_	_	_	_	_
+31	,	,	PUNCT	,	_	45	punct	_	_	_	_	_	_	_	_	_
+32	the	the	DET	DT	_	34	det	_	_	_	_	_	_	_	_	_
+33	role	role	NOUN	NN	_	45	nsubjpass	Y	role.01	_	_	_	_	_	A1	A1
+34	of	of	ADP	IN	_	36	case	_	_	_	_	_	_	A1	_	_
+35	Celimene	Celimene	PROPN	NNP	_	34	nmod	_	_	_	_	_	_	_	_	_
+36	,	,	PUNCT	,	_	34	punct	_	_	_	_	_	_	_	_	_
+37	played	play	VERB	VBN	_	34	acl	Y	play.02	_	_	_	_	_	_	_
+38	by	by	ADP	IN	_	41	case	_	_	_	_	_	_	_	A0	_
+39	Kim	Kim	PROPN	NNP	_	41	compound	_	_	_	_	_	_	_	_	_
+40	Cattrall	Cattrall	PROPN	NNP	_	38	nmod	_	_	_	_	_	_	A0	_	_
+41	,	,	PUNCT	,	_	34	punct	_	_	_	_	_	_	_	_	_
+42	was	be	AUX	VBD	_	45	auxpass	_	_	_	_	_	_	_	_	_
+43	mistakenly	mistakenly	ADV	RB	_	45	advmod	_	_	_	_	_	_	_	_	AM-MNR
+44	attributed	attribute	VERB	VBN	_	0	root	Y	attribute.01	_	_	_	_	_	_	_
+45	to	to	ADP	TO	_	48	case	_	_	_	_	_	_	_	_	A2
+46	Christina	Christina	PROPN	NNP	_	48	compound	_	_	_	_	_	_	_	_	_
+47	Haag	Haag	PROPN	NNP	_	45	nmod	_	_	_	_	_	_	_	_	_
+48	.	.	PUNCT	.	_	45	punct	_	_	_	_	_	_	_	_	_
+
+0	Ms.	Ms.	PROPN	NNP	_	2	compound	_	_	_
+1	Haag	Haag	PROPN	NNP	_	3	nsubj	_	_	A0
+2	plays	play	VERB	VBZ	_	0	root	Y	play.02	_
+3	Elianti	Elianti	PROPN	NNP	_	3	dobj	_	_	A1
+4	.	.	PUNCT	.	_	3	punct	_	_	_
+
+0	Rolls-Royce	Rolls-Royce	PROPN	NNP	_	4	compound	_	_	_	_	_	_
+1	Motor	Motor	PROPN	NNP	_	4	compound	_	_	_	_	_	_
+2	Cars	Cars	PROPN	NNPS	_	4	compound	_	_	A0	_	_	_
+3	Inc.	Inc.	PROPN	NNP	_	5	nsubj	_	_	_	_	_	_
+4	said	say	VERB	VBD	_	0	root	Y	say.01	_	_	_	_
+5	it	it	PRON	PRP	_	7	nsubj	_	_	_	A0	_	_
+6	expects	expect	VERB	VBZ	_	5	ccomp	Y	expect.01	A1	_	_	_
+7	its	its	PRON	PRP$	_	10	nmod:poss	_	_	_	_	A0	_
+8	U.S.	U.S.	PROPN	NNP	_	10	compound	_	_	_	_	AM-LOC	_
+9	sales	sale	NOUN	NNS	_	7	dobj	Y	sale.01	_	A1	_	A1
+10	to	to	PART	TO	_	12	mark	_	_	_	C-A1	_	_
+11	remain	remain	VERB	VB	_	7	xcomp	Y	remain.01	_	_	_	_
+12	steady	steady	ADJ	JJ	_	12	xcomp	_	_	_	_	_	A3
+13	at	at	ADP	IN	_	17	case	_	_	_	_	A1	AM-MNR
+14	about	about	ADP	IN	_	16	advmod	_	_	_	_	_	_
+15	1,200	1,200	NUM	CD	_	17	nummod	_	_	_	_	_	_
+16	cars	car	NOUN	NNS	_	12	nmod	_	_	_	_	_	_
+17	in	in	ADP	IN	_	19	case	_	_	_	_	AM-TMP	AM-TMP
+18	1990	1990	NUM	CD	_	12	nmod	_	_	_	_	_	_
+19	.	.	PUNCT	.	_	5	punct	_	_	_	_	_	_
+
+0	The	the	DET	DT	_	4	det	_	_	_	_
+1	luxury	luxury	NOUN	NN	_	4	compound	_	_	A1	_
+2	auto	auto	NOUN	NN	_	4	compound	_	_	A1	_
+3	maker	maker	NOUN	NN	_	7	nsubj	Y	maker.01	A0	A0
+4	last	last	ADJ	JJ	_	6	amod	_	_	_	_
+5	year	year	NOUN	NN	_	7	nmod:tmod	_	_	_	AM-TMP
+6	sold	sell	VERB	VBD	_	0	root	Y	sell.01	_	_
+7	1,214	1,214	NUM	CD	_	9	nummod	_	_	_	_
+8	cars	car	NOUN	NNS	_	7	dobj	_	_	_	A1
+9	in	in	ADP	IN	_	12	case	_	_	_	AM-LOC
+10	the	the	DET	DT	_	12	det	_	_	_	_
+11	U.S.	U.S.	PROPN	NNP	_	7	nmod	_	_	_	_
+
+0	Howard	Howard	PROPN	NNP	_	2	compound	_	_	_	_	_	_	_
+1	Mosher	Mosher	PROPN	NNP	_	10	nsubj	_	_	_	A0	_	_	_
+2	,	,	PUNCT	,	_	2	punct	_	_	_	_	_	_	_
+3	president	president	NOUN	NN	_	2	appos	_	_	_	_	_	_	_
+4	and	and	CONJ	CC	_	4	cc	_	_	_	_	_	_	_
+5	chief	chief	ADJ	JJ	_	8	amod	_	_	A3	_	_	_	_
+6	executive	executive	NOUN	NN	_	8	compound	_	_	A1	_	_	_	_
+7	officer	officer	NOUN	NN	_	4	conj	Y	officer.01	A0	_	_	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_	_	_	_	_	_
+9	said	say	VERB	VBD	_	0	root	Y	say.01	_	_	_	_	_
+10	he	he	PRON	PRP	_	12	nsubj	_	_	_	_	A0	_	_
+11	anticipates	anticipate	VERB	VBZ	_	10	ccomp	Y	anticipate.01	_	A1	_	_	_
+12	growth	growth	NOUN	NN	_	12	dobj	Y	growth.01	_	_	A1	_	_
+13	for	for	ADP	IN	_	18	case	_	_	_	_	_	A1	_
+14	the	the	DET	DT	_	18	det	_	_	_	_	_	_	_
+15	luxury	luxury	NOUN	NN	_	18	compound	_	_	_	_	_	_	_
+16	auto	auto	NOUN	NN	_	18	compound	_	_	_	_	_	_	_
+17	maker	maker	NOUN	NN	_	13	nmod	Y	maker.01	_	_	_	_	A1
+18	in	in	ADP	IN	_	20	case	_	_	_	_	_	_	_
+19	Britain	Britain	PROPN	NNP	_	13	nmod	_	_	_	_	_	_	_
+20	and	and	CONJ	CC	_	20	cc	_	_	_	_	_	_	_
+21	Europe	Europe	PROPN	NNP	_	20	conj	_	_	_	_	_	_	_
+22	,	,	PUNCT	,	_	20	punct	_	_	_	_	_	_	_
+23	and	and	CONJ	CC	_	20	cc	_	_	_	_	_	_	_
+24	in	in	ADP	IN	_	28	case	_	_	_	_	_	_	_
+25	Far	far	ADJ	JJ	_	27	amod	_	_	_	_	_	_	_
+26	Eastern	eastern	ADJ	JJ	_	28	amod	_	_	_	_	_	_	_
+27	markets	market	NOUN	NNS	_	20	conj	_	_	_	_	_	_	_
+28	.	.	PUNCT	.	_	10	punct	_	_	_	_	_	_	_
+
+0	BELL	BELL	PROPN	NNP	_	3	compound	_	_	_
+1	INDUSTRIES	INDUSTRIES	PROPN	NNP	_	3	compound	_	_	A0
+2	Inc.	Inc.	PROPN	NNP	_	4	nsubj	_	_	_
+3	increased	increase	VERB	VBD	_	0	root	Y	increase.01	_
+4	its	its	PRON	PRP$	_	6	nmod:poss	_	_	_
+5	quarterly	quarterly	NOUN	NN	_	4	dobj	_	_	A1
+6	to	to	ADP	TO	_	9	case	_	_	A4
+7	10	10	NUM	CD	_	9	nummod	_	_	_
+8	cents	cent	NOUN	NNS	_	4	nmod	_	_	_
+9	from	from	ADP	IN	_	12	case	_	_	A3
+10	seven	seven	NUM	CD	_	12	nummod	_	_	_
+11	cents	cent	NOUN	NNS	_	4	nmod	_	_	_
+12	a	a	DET	DT	_	14	det	_	_	_
+13	share	share	NOUN	NN	_	12	nmod:npmod	_	_	_
+14	.	.	PUNCT	.	_	4	punct	_	_	_
+
+0	The	the	DET	DT	_	3	det	_	_	_
+1	new	new	ADJ	JJ	_	3	amod	_	_	_
+2	rate	rate	NOUN	NN	_	6	nsubj	_	_	_
+3	will	will	AUX	MD	_	6	aux	_	_	_
+4	be	be	VERB	VB	_	6	cop	_	_	_
+5	payable	payable	ADJ	JJ	_	0	root	_	_	_
+6	Feb.	Feb.	PROPN	NNP	_	6	nmod:tmod	_	_	_
+7	15	15	NUM	CD	_	7	nummod	_	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_	_
+
+0	A	a	DET	DT	_	3	det	_	_	_	_	_
+1	record	record	NOUN	NN	_	3	compound	Y	record.04	_	A1	_
+2	date	date	NOUN	NN	_	7	nsubjpass	Y	date.01	A1	_	A1
+3	has	have	AUX	VBZ	_	7	aux	_	_	_	_	_
+4	n't	not	PART	RB	_	7	neg	_	_	_	_	AM-NEG
+5	been	be	AUX	VBN	_	7	auxpass	_	_	_	_	_
+6	set	set	VERB	VBN	_	0	root	Y	set.02	_	_	_
+7	.	.	PUNCT	.	_	7	punct	_	_	_	_	_
+
+0	Bell	Bell	PROPN	NNP	_	8	nsubj	_	_	A1	A0	A0	_	A0
+1	,	,	PUNCT	,	_	1	punct	_	_	_	_	_	_	_
+2	based	base	VERB	VBN	_	1	acl	Y	base.01	_	_	_	_	_
+3	in	in	ADP	IN	_	6	case	_	_	AM-LOC	_	_	_	_
+4	Los	Los	PROPN	NNP	_	6	compound	_	_	_	_	_	_	_
+5	Angeles	Angeles	PROPN	NNP	_	3	nmod	_	_	_	_	_	_	_
+6	,	,	PUNCT	,	_	1	punct	_	_	_	_	_	_	_
+7	makes	make	VERB	VBZ	_	0	root	Y	make.01	_	_	_	_	_
+8	and	and	CONJ	CC	_	8	cc	_	_	_	_	_	_	_
+9	distributes	distribute	VERB	VBZ	_	8	conj	Y	distribute.01	_	_	_	_	_
+10	electronic	electronic	ADJ	JJ	_	16	amod	_	_	_	_	_	_	A1
+11	,	,	PUNCT	,	_	11	punct	_	_	_	_	_	_	_
+12	computer	computer	NOUN	NN	_	11	conj	_	_	_	_	_	_	_
+13	and	and	CONJ	CC	_	11	cc	_	_	_	_	_	_	_
+14	building	building	NOUN	NN	_	11	conj	Y	building.01	_	_	_	_	A3
+15	products	product	NOUN	NNS	_	8	dobj	Y	product.01	_	A1	A1	A2	_
+16	.	.	PUNCT	.	_	8	punct	_	_	_	_	_	_	_
